@@ -5,8 +5,7 @@ In many small clinics, keeping track of patient records with pen and paper can b
 2. Project Objective
 To build a digital "Patient Health Record System" that allows clinic staff to efficiently register patients, automate health metric calculations like BMI and maintain a persistent history of patient visits using a simple file based storage system.
 
-3. Scope
-The system focuses on:
+3. ScopeThe system focuses on:
 Registration:Capturing patient details.
 Calculation:Automating BMI and health categorization.
 History:Storing multiple visit records for the same patient.
